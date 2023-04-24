@@ -6,8 +6,9 @@ Tabela de conteúdos
 ===================
 * [Descrição](#descrição)
 * [Status do projeto](#status-do-projeto)
+* [Tabela de conteúdos](#tabela-de-conteúdos)
 * [Pré-requisitos e como rodar a aplicação](#pré-requisitos-e-como-rodar-a-aplicação)
-* [](#contribuidores)
+* [Contribuidores](#contribuidores)
 
 ## Descrição 
 
